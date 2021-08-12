@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72EB7A5E26C4AF96009CD18B /* Questions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EB7A5D26C4AF96009CD18B /* Questions.swift */; };
 		72FCE4C526BBAB18003BA4D9 /* Quiz_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FCE4C426BBAB18003BA4D9 /* Quiz_AppApp.swift */; };
 		72FCE4C726BBAB18003BA4D9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FCE4C626BBAB18003BA4D9 /* ContentView.swift */; };
 		72FCE4C926BBAB21003BA4D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72FCE4C826BBAB21003BA4D9 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		72EB7A5D26C4AF96009CD18B /* Questions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questions.swift; sourceTree = "<group>"; };
 		72FCE4C126BBAB18003BA4D9 /* Quiz_App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quiz_App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72FCE4C426BBAB18003BA4D9 /* Quiz_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz_AppApp.swift; sourceTree = "<group>"; };
 		72FCE4C626BBAB18003BA4D9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				72FCE4C426BBAB18003BA4D9 /* Quiz_AppApp.swift */,
 				72FCE4C626BBAB18003BA4D9 /* ContentView.swift */,
+				72EB7A5D26C4AF96009CD18B /* Questions.swift */,
 				72FCE4C826BBAB21003BA4D9 /* Assets.xcassets */,
 				72FCE4CD26BBAB21003BA4D9 /* Info.plist */,
 				72FCE4CA26BBAB21003BA4D9 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72EB7A5E26C4AF96009CD18B /* Questions.swift in Sources */,
 				72FCE4C726BBAB18003BA4D9 /* ContentView.swift in Sources */,
 				72FCE4C526BBAB18003BA4D9 /* Quiz_AppApp.swift in Sources */,
 			);
